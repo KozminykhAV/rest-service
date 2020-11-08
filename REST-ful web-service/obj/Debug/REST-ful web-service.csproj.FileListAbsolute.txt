@@ -1,0 +1,65 @@
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\REST-ful web-service.dll.config
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\REST-ful web-service.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\REST-ful web-service.pdb
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\csc.exe
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\csc.exe.config
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\csc.rsp
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\csi.exe
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\csi.exe.config
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\csi.rsp
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\System.AppContext.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\System.Console.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\System.IO.Compression.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\System.Net.Http.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\System.ValueTuple.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\vbc.exe
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\vbc.exe.config
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\vbc.rsp
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\Newtonsoft.Json.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\System.Net.Http.Formatting.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\System.Web.Http.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\Newtonsoft.Json.xml
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\System.Net.Http.Formatting.xml
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\System.Web.Http.xml
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\obj\Debug\REST-ful web-service.csprojAssemblyReference.cache
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\obj\Debug\REST-ful web-service.csproj.CoreCompileInputs.cache
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\obj\Debug\REST-ful web-service.csproj.CopyComplete
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\obj\Debug\REST-ful web-service.dll
+C:\Users\Kozminykh\source\repos\REST-ful web-service\REST-ful web-service\obj\Debug\REST-ful web-service.pdb
